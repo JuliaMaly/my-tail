@@ -7,7 +7,7 @@ with io.open(os.path.join(here, "README.md"), encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="my-tail",
+    name="julia-my-tail",
     version="0.1.0",
     description="Simple replacement of unix tail (supports -n and -f) implemented with Click",
     long_description=long_description,
