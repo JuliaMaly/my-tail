@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: my-tail
+Version: 0.1.0
+Summary: Simple replacement of unix tail (supports -n and -f) implemented with Click
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: click>=8.0
+
+# my-tail
+
+my-tail — простий замінник tail з підтримкою опцій:
+- -n — кількість рядків з кінця (за замовчуванням 10)
+- -f — слідкувати за файлом (follow)
+
+## Встановлення
+```bash
+pip install my-tail

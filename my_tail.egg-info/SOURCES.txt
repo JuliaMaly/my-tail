@@ -1,0 +1,10 @@
+README.md
+setup.py
+my_tail/__init__.py
+my_tail/cli.py
+my_tail.egg-info/PKG-INFO
+my_tail.egg-info/SOURCES.txt
+my_tail.egg-info/dependency_links.txt
+my_tail.egg-info/entry_points.txt
+my_tail.egg-info/requires.txt
+my_tail.egg-info/top_level.txt
