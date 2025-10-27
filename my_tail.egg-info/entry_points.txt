@@ -1,2 +1,0 @@
-[console_scripts]
-my-tail = my_tail.cli:main
